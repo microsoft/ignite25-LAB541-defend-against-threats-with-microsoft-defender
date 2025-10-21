@@ -89,8 +89,8 @@ By the end of this session, learners will be able to:
 
 ### 💻 Technologies Used
 
-1.
-1.
+1. Microsoft Defender XDR
+1. Microsoft Defender for Endpoint
 1.
 
 ### 🌟 Microsoft Learn MCP Server
