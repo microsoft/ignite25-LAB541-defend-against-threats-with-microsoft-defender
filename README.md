@@ -12,21 +12,20 @@
 
 ### Session Description
 
-*Deploy and configure Microsoft Defender XDR to protect endpoints, identities, emails, and applications*
+You're a Security Operations Analyst working at a company that is implementing Microsoft Defender XDR and Microsoft Defender for Endpoint. Your manager plans to onboard a few devices to provide insight into required changes to the Security Operations (SecOps) team response procedures.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
-- Deploy and configure Microsoft Defender XDR to protect endpoints, identities, emails, and applications.    
-- Integrate Microsoft Defender XDR with existing security solutions.
-- Monitor and respond to security incidents using Microsoft Defender XDR.
+- Deploy and configure Microsoft Defender XDR.
+- Deploy Microsoft Defender for Endpoint and onboard devices.
+- Perform a simulated attack and investigate alerts and incidents with Microsoft Defender XDR.
 
 ### 💻 Technologies Used
 
 1. Microsoft Defender XDR
 1. Microsoft Defender for Endpoint
-1.
 
 ### 🌟 Microsoft Learn MCP Server
 
