@@ -24,7 +24,7 @@ In this task, you will confirm that the device is onboarded successfully and cre
 
 1. In the left-hand menu, under the **Assets** area, select **Devices**. Please wait until WIN1 appears in the Devices page before you continue. Otherwise, you might need to repeat this task to see the alerts that will be generated later.
 
-    >**Note:** If you have completed the onboarding process and don't see devices in the Devices list after an hour, it might indicate an onboarding or connectivity problem.
+    >**Note:** If you have completed the onboarding process and don't see devices in the Devices list after an hour, it might indicate an onboarding or connectivity problem. Also, in the lab environment WIN1 machine may be listed as *base23b*.
 
 1. In the Microsoft Defender XDR portal left menu bar, expand the **System** section and select **Settings**, then from the *Settings* page select **Endpoints**.
 

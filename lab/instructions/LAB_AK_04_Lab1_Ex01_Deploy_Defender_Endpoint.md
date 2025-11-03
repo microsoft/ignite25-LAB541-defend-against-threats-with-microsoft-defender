@@ -146,6 +146,8 @@ In this task, you'll configure device groups that allow for access control and a
 
 1. On the Preview devices tab, the *Show preview* button could show the WIN1 virtual machine, but most likely the data isn't populated yet. Select **Next** to continue.
 
+    >**Note:** In the lab environment WIN1 machine may be listed as *base23b*.
+
 1. For the User access tab, select **sg-IT** and then select **Add selected groups** button. Make sure it appears under *Azure AD user groups with access to this device group*.
 
 1. Select **Submit** and then **Done** when finished.
