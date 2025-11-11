@@ -110,4 +110,17 @@ In this task, you will simulate an attack on the WIN1 virtual machine (by runnin
 
 1. Review the contents of the *Ip address* page *Overview, Incidents & alerts and Observed in organizations* tabs. Some tabs may not contain and information for the IP address.
 
+---
+
+## Share your feedback
+
+Thank you for completing **LAB541 – Defend Against Threats with Microsoft Defender**.
+
+Your feedback helps improve future labs and events.
+
+Scan the QR codes at [https://aka.ms/IgniteLab541feedback](https://assetsmanagement952e.blob.core.windows.net/ignite25assets/feedbackslides/LAB541-repo.png), or use the links below:
+
+- On the Ignite page: [Give feedback](https://aka.ms/ignite25-feedback)
+- Lab content issues: [Open an issue in the repo](https://aka.ms/ignite25-LAB541)
+
 ## You have completed the lab
